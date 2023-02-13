@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shrijalshr
 - 👀 I’m interested in developing user friendly mobile application.
-- 🌱 I’m currently learning BLoC pattern in Flutter application
+- 🌱 I’m currently learning different state management techniques and GraphQL integration in Flutter application.
+- 🔍 Currently, looking for opening as Flutter Developer.
 - 📫 How to reach me 
       📧: shrijalshrestha313@gmail.com 
 
