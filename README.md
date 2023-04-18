@@ -6,11 +6,11 @@
 - 📫 How to reach me
 
 
-      📧: shrijalshrestha313@gmail.com 
+      📧: <shrijalshrestha313@gmail.com> 
       
-      🔗: https://shrijalshrestha.com.np/
+      🔗: [https://shrijalshrestha.com.np/](https://shrijalshrestha.com.np/)
       
-      🌳: linktr.ee/shrijalshr
+      🌳: [linktr.ee/shrijalshr](linktr.ee/shrijalshr)
 
 <!---
 shrijalshr/shrijalshr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
