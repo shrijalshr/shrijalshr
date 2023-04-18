@@ -5,10 +5,7 @@
 - 🔍 Currently, looking for opening as Flutter Developer.
 - 📫 How to reach me
 
-
       📧: <shrijalshrestha313@gmail.com> 
-      
-      🔗: <https://shrijalshrestha.com.np/>
       
       🌳: <linktr.ee/shrijalshr>
 
