@@ -4,8 +4,8 @@
 - ⚒️ As of now, I am building a simple offline Dairy Management System with SQFEntity package as Database Manager for Need                   Technosoft and Internsathi's mobile platform.
 - 🔍 Currently, looking for opening as Flutter Developer.
 - 📫 How to reach me: 
-      📧: <shrijalshrestha313@gmail.com>  
-      🌳: <linktr.ee/shrijalshr>
+- 📧 <shrijalshrestha313@gmail.com>  
+- 🌳 <linktr.ee/shrijalshr>
 
 <!---
 shrijalshr/shrijalshr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
