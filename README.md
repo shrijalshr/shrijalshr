@@ -5,7 +5,7 @@
 - 🔍 Currently, looking for opening as Flutter Developer.
 - 📫 How to reach me: 
 - 📧 <shrijalshrestha313@gmail.com>  
-- 🌳 <linktr.ee/shrijalshr>
+- 🌳 [<linktr.ee/shrijalshr>](https://linktr.ee/shrijalshr)
 
 <!---
 shrijalshr/shrijalshr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
