@@ -3,10 +3,8 @@
 - 🌱 I’m currently learning different state management techniques and GraphQL integration in Flutter application.
 - ⚒️ As of now, I am building a simple offline Dairy Management System with SQFEntity package as Database Manager for Need                   Technosoft and Internsathi's mobile platform.
 - 🔍 Currently, looking for opening as Flutter Developer.
-- 📫 How to reach me
-
-      📧: <shrijalshrestha313@gmail.com> 
-      
+- 📫 How to reach me: 
+      📧: <shrijalshrestha313@gmail.com>  
       🌳: <linktr.ee/shrijalshr>
 
 <!---
